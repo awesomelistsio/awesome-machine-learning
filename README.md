@@ -111,6 +111,7 @@
 - [Coursera: Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning) - A comprehensive course on machine learning.
 - [Fast.ai](https://www.fast.ai/) - Free courses and resources for practical machine learning.
 - [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) - A fast-paced introduction to machine learning.
+- [Practical AI Security](https://academy.8ksec.io/course/practical-ai-security) - A comprehensive course on AI, ML & LLM Security.
 
 ## Books
 
