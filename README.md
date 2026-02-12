@@ -43,6 +43,7 @@
 - [DVC (Data Version Control)](https://dvc.org/) - A version control system for machine learning projects.
 - [Optuna](https://optuna.org/) - An automatic hyperparameter optimization framework.
 - [Streamlit](https://streamlit.io/) - A library for creating interactive machine learning web apps quickly.
+- [WFGY](https://github.com/onestardao/WFGY/tree/main/ProblemMap#readme) - Open source framework for diagnosing and stress testing LLM agents and RAG pipelines with a structured failure map.
 
 ## Algorithms and Techniques
 
