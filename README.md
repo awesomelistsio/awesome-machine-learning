@@ -43,6 +43,7 @@
 - [DVC (Data Version Control)](https://dvc.org/) - A version control system for machine learning projects.
 - [Optuna](https://optuna.org/) - An automatic hyperparameter optimization framework.
 - [Streamlit](https://streamlit.io/) - A library for creating interactive machine learning web apps quickly.
+- [WFGY RAG 16 Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md) - A structured failure taxonomy and semantic debugging guide for RAG and LLM pipelines.
 
 ## Algorithms and Techniques
 
